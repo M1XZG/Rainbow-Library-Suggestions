@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: World Bug Report
+about: Create a World Bug Report
 title: ''
-labels: ''
+labels: bug, World
 assignees: ''
 
 ---

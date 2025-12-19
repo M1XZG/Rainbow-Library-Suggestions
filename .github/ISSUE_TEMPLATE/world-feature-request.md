@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: World feature request
+about: Suggest an idea for the world
 title: ''
-labels: ''
+labels: enhancement, World
 assignees: ''
 
 ---
